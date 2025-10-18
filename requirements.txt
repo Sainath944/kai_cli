@@ -1,0 +1,6 @@
+langchain
+langgraph
+ollama
+google-generativeai
+rich
+requests
